@@ -59,6 +59,7 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 |---|---|---|---|
 | _(ejemplo)_ | Nombre 1, Nombre 2, Nombre 3 | Sistema de turnos para clínica veterinaria | https://usuario.github.io/repositorio/ |
 | Grupo 5-Estrellas | Vivian Frutos, Ana Girett, Araceli Franco | Sistema de gestión de ventas, créditos y stock para despensa | https://anagg27.github.io/5-estrellas/ |
+| Grupo 2 | Elias Salinas, Lucas Perez, Federico Arrua, Luis Saucedo | DevCampus-UC | (https://github.com/LucasPerez04/dev_study.git) |
 
 > 👉 Para agregar tu grupo a esta tabla, seguí los pasos en [CONTRIBUTING.md](CONTRIBUTING.md). No se aceptan cambios a otras filas que no sean la tuya.
 
